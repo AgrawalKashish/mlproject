@@ -1,4 +1,5 @@
-##building our machine learning application as a package and even distributing it to other developers or users.
+#In Python, setup.py is a module used to build and distribute Python packages. It typically contains information about the package, such as its name, version, and dependencies, as well as instructions for building and installing the package.
+# #building our machine learning application as a package and even distributing it to other developers or users.
 from setuptools import find_packages, setup
 from typing import List
 HYPEN_E_DOT = '-e .'
